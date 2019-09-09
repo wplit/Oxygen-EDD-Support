@@ -23,6 +23,10 @@ See [documentation on customising template files in Easy Digital Downloads](http
 2. Paste files into the 'edd_templates' directory in this plugin.
 2. Customize the files to create your custom templates.
 
+## Support ##
+
+I'd love to keep building useful tools for free. if you find my work valuable, consider [buying me a coffee](https://www.buymeacoffee.com/wplit) to show your support. 
+
 ## Changelog ##
 
 ### 1.0.0 - Sept 13, 2018 ###
